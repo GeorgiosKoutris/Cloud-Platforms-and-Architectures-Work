@@ -8,7 +8,13 @@
 ## Περιγραφή Έργου
 
 
-## Τεχνολογίες
+## Υπολογιστικό Περιβάλλον (Cloud Node):
+* Υποδομή: Google Cloud Platform (περιβάλλον Google Colab Runtime).
+* Επεξεργαστής: 2 vCPUs (Intel Xeon @ 2.20GHz).
+* Μνήμη RAM: 12.7 GB.
+* Λειτουργικό Σύστημα: Ubuntu Linux x86_64.Λογισμικό & Βιβλιοθήκες: Python 3.10, PySpark 3.5.x, Matplotlib 3.8
 
 
 ## Οδηγίες Χρήσης
+1. Τρέξτε τo:  `!pip install pyspark matplotlib`
+2. Εκτελέστε: `#### Εκτέλεση Πειράματος & Δημιουργία Γραφημάτων`
